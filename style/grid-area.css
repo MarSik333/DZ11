@@ -210,6 +210,8 @@
     font-size: 1.1vw;
     line-height: 23px;
     color: #FFFFFF;
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%);
+    border-radius: 20px;
 }
 
 
@@ -228,6 +230,8 @@
     font-size: 1.1vw;
     line-height: 23px;
     color: #FFFFFF;
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,0) 100%);
+    border-radius: 20px;
 }
 
 
